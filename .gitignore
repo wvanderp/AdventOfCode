@@ -16,3 +16,7 @@ Cargo.lock
 # node
 
 node_modules
+
+# cpp
+
+build/

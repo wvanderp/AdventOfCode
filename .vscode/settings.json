@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "files.associations": {
+        "*.start": "shellscript",
+        "*.stop": "shellscript",
+        "fstream": "cpp",
+        "vector": "cpp"
+    },
+    "cmake.sourceDirectory": "/home/walter/AdventOfCode/2023/day2"
+}

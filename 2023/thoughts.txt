@@ -1,0 +1,6 @@
+day 2:
+
+why does cpp not have a built in split of a string function?
+
+with github copilot you can focus more on learning the language than learning how to code
+although you don't get to practice writing code as much
