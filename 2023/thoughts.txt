@@ -4,3 +4,17 @@ why does cpp not have a built in split of a string function?
 
 with github copilot you can focus more on learning the language than learning how to code
 although you don't get to practice writing code as much
+
+
+day3:
+
+im not looking forward to this day. it is always a bad day when you have to work with 2d arrays.
+
+am i going to do this the normal way or the inverse way. do i loop over everything and see if the numbers have a symbol or do i loop over every symbol and see if it has numbers
+
+why does cpp not protect me from invalid lookups in vectors
+
+why cant you just edit a struct in piece. i needed to add a & to my out pointer.
+why do i need to think of this and not the compiler or the language
+
+60923894 too low

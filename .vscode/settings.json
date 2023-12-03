@@ -6,5 +6,8 @@
         "fstream": "cpp",
         "vector": "cpp"
     },
-    "cmake.sourceDirectory": "/home/walter/AdventOfCode/2023/day2"
+    "cmake.sourceDirectory": "/home/walter/AdventOfCode/2023/day2",
+    "[plaintext]": {
+        "files.insertFinalNewline": false,
+    }
 }
