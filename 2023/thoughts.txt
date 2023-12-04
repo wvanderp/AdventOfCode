@@ -18,3 +18,14 @@ why cant you just edit a struct in piece. i needed to add a & to my out pointer.
 why do i need to think of this and not the compiler or the language
 
 60923894 too low
+
+
+day 4:
+
+im switching to ts for a quick win. i did not get time to do it in cpp during the day.
+
+921 is too low
+42356 too high
+
+i cant trust any thing copilot writes even if i give it testcases
+
