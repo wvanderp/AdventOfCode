@@ -54,4 +54,47 @@ Day 5 got me feeling like
 
 It got me feeling like Call_an_ambulance_its_for_me.jpeg
 
-it took me only from 1900 in the mcdonnals till 23:40 at home to solve it
+it took me only from 1900 in the mcdonalds till 23:40 at home to solve it
+
+## day 6
+
+I was a bit "inspired" (read spoiled) by the subreddit to use the quadratic equation
+
+so is dusted off my math skills and looked up how to make a quadratic equation. one wolfram alpha query later and i had the formula
+
+the for i believe the first time during advent of code i used calc (aka excel) to calculate the quadratic equation.
+
+so let see if part to is as easy as part one
+
+formula:
+
+```latex
+y = -x^2 + bx
+```
+
+where b is the time in the race
+
+b = 59688274
+
+distance to beat is 543102016641022
+
+so the cross over points are calculated with
+
+```latex
+-x^2 + 59688274x = 543102016641022
+```
+
+x≈1.120089434659479898770709×10^7 ≈ 11200894.34659479898770709  ≈ 11200895 (rounded up)
+x≈4.848737965340520101229291×10^7 ≈ 48487379.65340520101229291 ≈ 48487378 (rounded up)
+
+so the answer in between these two points
+
+```latex
+    48487378-11200895 = 37286485
+```
+
+37286486 too high
+37286484 too low
+37286485 just right
+
+these calculation have been ajusted to make it seam like i had the answer first try.
