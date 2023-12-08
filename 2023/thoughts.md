@@ -98,3 +98,10 @@ so the answer in between these two points
 37286485 just right
 
 these calculation have been ajusted to make it seam like i had the answer first try.
+
+## day 7
+
+its day is all about sorting. i think i can do this in cpp with a custom class and some overloading of operators.
+lets see if this statement still stands in 5 hours.
+
+so that was a lie. its is now the next day and i have 20 min to spare before i need to go back to work

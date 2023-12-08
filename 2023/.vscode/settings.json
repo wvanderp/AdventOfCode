@@ -1,0 +1,9 @@
+{
+    "cmake.sourceDirectory": "/home/walter/AdventOfCode/2023/day1",
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "*.start": "shellscript",
+        "*.stop": "shellscript",
+        "vector": "cpp"
+    }
+}
